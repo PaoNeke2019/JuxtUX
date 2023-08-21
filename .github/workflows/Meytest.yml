@@ -1,0 +1,16 @@
+# 自行编写脚本，或窗口右侧找到合适的任务并复制代码在此进行粘贴；
+
+name: TestCI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+写错了怎么办？能保存吗？
