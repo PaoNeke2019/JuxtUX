@@ -6,7 +6,7 @@
 
 ## Overview
 
-基于Java基础类库编写的Flappy Bird桌面平台版。
+一个java的小游戏复刻版本，小鸟飞行躲避水管的游戏。
 
 具备原版所有功能，相较原版加入了移动型水管、优化了难度梯度。
 
@@ -69,6 +69,3 @@
 
 [v1.0.0](https://github.com/kingyuluk/FlappyBird/tree/d158fa5ca5927e1febcd460e8d61b5a16756c761) - July 10, 2020
 * 具备原版的游戏功能
-
-## License
-[MIT](License) © Kingyu Luk
